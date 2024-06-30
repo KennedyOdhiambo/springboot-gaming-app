@@ -1,6 +1,6 @@
 package com.example.learn_spring_framework.game;
 
-public class MarioGame implements GamingConsole {
+public class SuperContra implements GamingConsole {
 
     public void up() {
         System.out.println("Jump");
